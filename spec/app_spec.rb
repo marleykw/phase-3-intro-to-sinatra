@@ -12,4 +12,6 @@ describe "App" do
     # Inspect the body of the response
     expect(last_response.body).to include("7")
   end
+
+
 end
